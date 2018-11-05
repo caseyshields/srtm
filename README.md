@@ -8,7 +8,7 @@ I use d3-contour to compute elevation contours and transform them back into sphe
 
 I also used d3-geo-projection to format some US census tract data.
 
-![Example processed map](nv_screen.svg)
+![Example processed map](tracts/nv_screen.svg)
 
 ## Future Improvements
   - Add image processing capabilites to the srtm raster;
